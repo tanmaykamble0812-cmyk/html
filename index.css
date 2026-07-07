@@ -1,0 +1,55 @@
+ .h{ 
+   width:auto;
+   height:auto;
+    color:rgb(226, 43, 67);
+    background-color:salmon
+ }
+  p {
+    color:chocolate
+  }
+   main {
+     color:cornflowerblue
+   } /* THis is a comment */
+   article {
+      color:darkgreen
+   }
+   ul {
+     color:darkslateblue
+   }
+    * {
+       color:cornflowerblue
+    }
+    /* This * is use for remaining elements color */
+     ul#Dark {
+        color:rgb(137, 123, 229)
+     }
+     .King { 
+              color:fuchsia
+     }
+     #Hi ,#he ,#Hello , .Ni {
+          color:rgb(247, 63, 250)
+     }
+     #Tanu p {
+       color:rgb(63, 250, 141)
+     }
+      #Tanu small {
+         color:rgb(250, 63, 63)
+      }
+      #no {
+         color:blueviolet
+      }
+       * {
+         background-color:rgb(23, 22, 22)
+      }
+     * {
+       margin:0px; padding:4px;
+     }
+     #v {
+       color:palegreen
+     }
+     #u {
+       color:palegoldenrod
+     }
+    * {
+       background-image
+    }
